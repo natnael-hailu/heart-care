@@ -6,7 +6,7 @@ const Navbar = (): JSX.Element => {
   return (
     <nav className="sticky top-0 bg-white shadow z-50">
       <div className="max-w-7xl mx-auto flex justify-between p-4">
-        <h1 className="text-xl font-bold text-primary">HeartCare</h1>
+        <h1 className="text-xl font-bold text-primary">Gesund hospital</h1>
 
         <button onClick={() => setOpen(!open)} className="md:hidden">
           ☰
